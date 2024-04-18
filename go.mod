@@ -1,3 +1,3 @@
-module github.com/AsilbekOS/Homework_17
+module employe
 
 go 1.22.2
